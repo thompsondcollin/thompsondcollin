@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thompsondcollin
-- 👀 I’m interested in Software and Game Development
+- 👀 I’m interested in development of all types
 - 🌱 I’m currently learning Computer Science in Georgia Tech's OMSCS
 - 💞️ I’m looking to collaborate on entry level experience
 - 📫 How to reach me: email - thompsondcollin@gmail.com
